@@ -3,4 +3,5 @@
 print ("New python file")
 
 print ("end")
-# display the file
+# display the second file
+print ("new features")
